@@ -1,5 +1,5 @@
 # index.html
-HTML TEST 123
+HTML TEST
 
 Grunden gjordes genom att i första raden skriva ett "!" och sen trycka enter.
 
